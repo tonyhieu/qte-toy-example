@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{315E0850-2C5D-E3C0-DC8F-E6820546840A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/QTE.cs">
+    <Files>
+      <File FileName="Assets/QTE.cs" Line="5" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QTE Toy Example" expanded="True">
+            <Node name="Assets" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3409d2dc-b247-4c97-8314-307b348066e0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
